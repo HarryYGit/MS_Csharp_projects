@@ -1,0 +1,14 @@
+/Users/harryy/vscode/Csharp/CsharpProject/TestProject0001/bin/Debug/net8.0/TestProject0001
+/Users/harryy/vscode/Csharp/CsharpProject/TestProject0001/bin/Debug/net8.0/TestProject0001.deps.json
+/Users/harryy/vscode/Csharp/CsharpProject/TestProject0001/bin/Debug/net8.0/TestProject0001.runtimeconfig.json
+/Users/harryy/vscode/Csharp/CsharpProject/TestProject0001/bin/Debug/net8.0/TestProject0001.dll
+/Users/harryy/vscode/Csharp/CsharpProject/TestProject0001/bin/Debug/net8.0/TestProject0001.pdb
+/Users/harryy/vscode/Csharp/CsharpProject/TestProject0001/obj/Debug/net8.0/TestProject0001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harryy/vscode/Csharp/CsharpProject/TestProject0001/obj/Debug/net8.0/TestProject0001.AssemblyInfoInputs.cache
+/Users/harryy/vscode/Csharp/CsharpProject/TestProject0001/obj/Debug/net8.0/TestProject0001.AssemblyInfo.cs
+/Users/harryy/vscode/Csharp/CsharpProject/TestProject0001/obj/Debug/net8.0/TestProject0001.csproj.CoreCompileInputs.cache
+/Users/harryy/vscode/Csharp/CsharpProject/TestProject0001/obj/Debug/net8.0/TestProject0001.dll
+/Users/harryy/vscode/Csharp/CsharpProject/TestProject0001/obj/Debug/net8.0/refint/TestProject0001.dll
+/Users/harryy/vscode/Csharp/CsharpProject/TestProject0001/obj/Debug/net8.0/TestProject0001.pdb
+/Users/harryy/vscode/Csharp/CsharpProject/TestProject0001/obj/Debug/net8.0/TestProject0001.genruntimeconfig.cache
+/Users/harryy/vscode/Csharp/CsharpProject/TestProject0001/obj/Debug/net8.0/ref/TestProject0001.dll
