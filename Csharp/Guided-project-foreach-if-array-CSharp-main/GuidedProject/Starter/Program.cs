@@ -12,10 +12,8 @@ int[] loganScores =  { 90, 95, 87, 88, 96 };
 //student names
 string[] studentNames = {"Sophia", "Andrew", "Emma", "Logan"};
 
-// sophiaScore = (decimal)sophiaSum / currentAssignments;
-// andrewScore = (decimal)andrewSum / currentAssignments;
-// emmaScore = (decimal)emmaSum / currentAssignments;
-// loganScore = (decimal)loganSum / currentAssignments;
+//student score array
+int[] studentScores = new int[10];
 
 Console.WriteLine("Student\t\tGrade\n");
 
@@ -24,25 +22,31 @@ foreach (string name in studentNames)
 {
     string currentStudent = name;
 
+    // match student scores with names
     if (currentStudent == "Sophia")
-    {
-        int sophiaSum = 0;
+        studentScores = sophiaScores;
+    
+    else if (currentStudent == "Andrew")
+        studentScores = andrewScores;
+    
+    else if (currentStudent == "Emma")
+        studentScores = emmaScores;
+    
+    else if (currentStudent == "Logan")
+        studentScores = loganScores;
+    
+        int sumAssignmentScores = 0;
 
-        decimal sophiaScore;
+        decimal currentStudentGrade = 0;
 
-        foreach (int score in sophiaScores)
+        foreach (int score in studentScores)
         {
-            sophiaSum += score;
+            sumAssignmentScores += score;
         }
 
-        sophiaScore = (decimal)sophiaSum / currentAssignments;
+        currentStudentGrade = (decimal)sumAssignmentScores / currentAssignments;
 
-    }
-
-    
-    Console.WriteLine("Student\t\tGrade\n");
-
-
+        System.Console.WriteLine($"{currentStudent}\t\t{currentStudentGrade}\t?");
 
 }
 
