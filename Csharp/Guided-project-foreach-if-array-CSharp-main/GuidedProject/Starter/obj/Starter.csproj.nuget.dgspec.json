@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "S:\\Git local\\MS_Csharp_projects\\Csharp\\Guided-project-foreach-if-array-CSharp-main\\GuidedProject\\Starter\\Starter.csproj": {}
+    "/Users/harryy/Documents/GitHub/MS_Csharp_projects/Csharp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj": {}
   },
   "projects": {
-    "S:\\Git local\\MS_Csharp_projects\\Csharp\\Guided-project-foreach-if-array-CSharp-main\\GuidedProject\\Starter\\Starter.csproj": {
+    "/Users/harryy/Documents/GitHub/MS_Csharp_projects/Csharp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\Git local\\MS_Csharp_projects\\Csharp\\Guided-project-foreach-if-array-CSharp-main\\GuidedProject\\Starter\\Starter.csproj",
+        "projectUniqueName": "/Users/harryy/Documents/GitHub/MS_Csharp_projects/Csharp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj",
         "projectName": "Starter",
-        "projectPath": "S:\\Git local\\MS_Csharp_projects\\Csharp\\Guided-project-foreach-if-array-CSharp-main\\GuidedProject\\Starter\\Starter.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "S:\\Git local\\MS_Csharp_projects\\Csharp\\Guided-project-foreach-if-array-CSharp-main\\GuidedProject\\Starter\\obj\\",
+        "projectPath": "/Users/harryy/Documents/GitHub/MS_Csharp_projects/Csharp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj",
+        "packagesPath": "/Users/harryy/.nuget/packages/",
+        "outputPath": "/Users/harryy/Documents/GitHub/MS_Csharp_projects/Csharp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/harryy/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

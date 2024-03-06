@@ -46,7 +46,63 @@ foreach (string name in studentNames)
 
         currentStudentGrade = (decimal)sumAssignmentScores / currentAssignments;
 
-        System.Console.WriteLine($"{currentStudent}\t\t{currentStudentGrade}\t?");
+        //creare student scores if-elseif-else satatement
+        string currentStudentLetterGrade = "";
+        if (currentStudentGrade >= 97)
+        {
+            currentStudentLetterGrade = "A+";
+        }
+        else if (currentStudentGrade >= 93)
+        {
+            currentStudentLetterGrade = "A";
+        }
+        else if (currentStudentGrade >= 90)
+        {
+            currentStudentLetterGrade = "A-";
+        }
+        else if (currentStudentGrade >= 87)
+        {
+            currentStudentLetterGrade = "B+";
+        }
+        else if (currentStudentGrade >= 83)
+        {
+            currentStudentLetterGrade = "B";
+        }
+        else if (currentStudentGrade >= 80)
+        {
+            currentStudentLetterGrade = "B-";
+        }
+        else if (currentStudentGrade >= 77)
+        {
+            currentStudentLetterGrade = "C+";
+        }
+        else if (currentStudentGrade >= 73)
+        {
+            currentStudentLetterGrade = "C";
+        }
+        else if (currentStudentGrade >= 70)
+        {
+            currentStudentLetterGrade = "C-";
+        }
+        else if (currentStudentGrade >= 67)
+        {
+            currentStudentLetterGrade = "D+";
+        }
+        else if (currentStudentGrade >= 63)
+        {
+            currentStudentLetterGrade = "D";
+        }
+        else if (currentStudentGrade >= 60)
+        {
+            currentStudentLetterGrade = "D-";
+        }
+        else
+        {
+            currentStudentLetterGrade = "F";
+        }
+
+
+        System.Console.WriteLine($"{currentStudent}\t\t{currentStudentGrade}\t\t{currentStudentLetterGrade}");
 
 }
 
