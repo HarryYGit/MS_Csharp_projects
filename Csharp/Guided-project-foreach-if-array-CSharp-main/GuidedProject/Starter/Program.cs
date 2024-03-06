@@ -1,13 +1,16 @@
 ﻿using System;
 
 // initialize variables - graded assignments 
-int currentAssignments = 5;
+// int currentAssignments = 5;
+int examAssignments = 5; //change for extra credits
 
 // student scores
-int[] sophiaScores =  { 90, 86, 87, 98, 100 };
-int[] andrewScores =  { 92, 89, 81, 96, 90 };
-int[] emmaScores =  { 90, 85, 87, 98, 68 };
-int[] loganScores =  { 90, 95, 87, 88, 96 };
+// int[] sophiaScores =  { 90, 86, 87, 98, 100 }; 
+int[] sophiaScores =  { 90, 86, 87, 98, 100, 94, 90 }; //extra credits
+int[] andrewScores =  { 92, 89, 81, 96, 90, 89 };
+// int[] emmaScores =  { 90, 85, 87, 98, 68 };
+int[] emmaScores =  { 90, 85, 87, 98, 68, 89, 89, 89 };
+int[] loganScores =  { 90, 95, 87, 88, 96, 96 };
 
 //student names
 string[] studentNames = {"Sophia", "Andrew", "Emma", "Logan"};
@@ -39,12 +42,27 @@ foreach (string name in studentNames)
 
         decimal currentStudentGrade = 0;
 
+        //for extra credits
+        int gradedAssignmnts = 0;
+
         foreach (int score in studentScores)
         {
-            sumAssignmentScores += score;
+            //assignment counter for graded assignments
+            gradedAssignmnts += 1;
+
+            if (gradedAssignmnts <= examAssignments)
+            {
+                sumAssignmentScores += score; //sum first 5 assignments, which is the original assignments
+            }
+            else
+            {
+                sumAssignmentScores += score / 10; //sum extra credits as 10% bonus points to exam score
+            }
         }
 
-        currentStudentGrade = (decimal)sumAssignmentScores / currentAssignments;
+        
+        // currentStudentGrade = (decimal)sumAssignmentScores / currentAssignments;
+        currentStudentGrade = (decimal)sumAssignmentScores / examAssignments;
 
         //creare student scores if-elseif-else satatement
         string currentStudentLetterGrade = "";

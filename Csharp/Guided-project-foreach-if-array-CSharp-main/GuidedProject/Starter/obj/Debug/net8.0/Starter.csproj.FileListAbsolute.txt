@@ -42,3 +42,18 @@ S:/Git local/MS_Csharp_projects/Csharp/Guided-project-foreach-if-array-CSharp-ma
 /Users/harryy/Documents/GitHub/MS_Csharp_projects/Csharp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.pdb
 /Users/harryy/Documents/GitHub/MS_Csharp_projects/Csharp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
 /Users/harryy/Documents/GitHub/MS_Csharp_projects/Csharp/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/ref/Starter.dll
+S:\Git local\MS_Csharp_projects\Csharp\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+S:\Git local\MS_Csharp_projects\Csharp\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+S:\Git local\MS_Csharp_projects\Csharp\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+S:\Git local\MS_Csharp_projects\Csharp\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+S:\Git local\MS_Csharp_projects\Csharp\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.sourcelink.json
+S:\Git local\MS_Csharp_projects\Csharp\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.dll
+S:\Git local\MS_Csharp_projects\Csharp\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+S:\Git local\MS_Csharp_projects\Csharp\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.pdb
+S:\Git local\MS_Csharp_projects\Csharp\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.exe
+S:\Git local\MS_Csharp_projects\Csharp\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.deps.json
+S:\Git local\MS_Csharp_projects\Csharp\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+S:\Git local\MS_Csharp_projects\Csharp\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.dll
+S:\Git local\MS_Csharp_projects\Csharp\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.pdb
+S:\Git local\MS_Csharp_projects\Csharp\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+S:\Git local\MS_Csharp_projects\Csharp\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\ref\Starter.dll
